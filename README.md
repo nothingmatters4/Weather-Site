@@ -18,8 +18,6 @@ A simple and elegant Weather App built using **HTML**, **CSS**, and **JavaScript
 
 ![Weather App Screenshot](screenshot.png)  
 
-*(Replace `screenshot.png` with the actual name of your screenshot file in the repository)*
-
 ---
 
 ## 🚀 Technologies Used
